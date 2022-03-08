@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nv_home"
+        android:icon="@drawable/ic_twotone_home_24"
+        android:title="@string/hs_home"/>
+    <item android:id="@+id/nv_about"
+        android:icon="@drawable/ic_twotone_about_24"
+        android:title="@string/hs_about"/>
+    <item android:id="@+id/nv_profile"
+        android:icon="@drawable/ic_twotone_profile_24"
+        android:title="@string/hs_profile"/>
+</menu>

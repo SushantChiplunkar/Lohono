@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Lohono</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="pl_name">Name: sushant chiplunkar</string>
+    <string name="al_desc_1">of the perfect holiday home ticks all the right boxes of being destination-specific and chic yet warm and welcoming. You’ll find a unique highlight in every individual home whether it’s a tempting gazebo by the pool or an age-old banyan tree with a charpoy laid underneath. And if you\'re in the mood to celebrate, our skilled concierge can offer exceptional gourmet and entertainment experiences for your loved ones.</string>
+    <string name="al_title_2">Come, Lohono with us</string>
+    <string name="al_title_1">Our version</string>
+    <string name="al_title_main">LOHONO</string>
+    <string name="al_desc_2">because we believe in superior service which makes your holiday exceptional through its attention to detail. Our collection of impeccably-styled homes will transport you from Alibaug to The Algarve in a minute. Want to discover local gems? We have curated a local guide full of recommendations like family-owned fromageries and tucked-away art galleries. The good life is waiting.</string>
+    <string name="al_title_3">Most popular travel destinations</string>
+    <string name="al_desc_3">in India and Asia. We curate and manage some of the most beautiful villas across Goa, Alibaug, Lonavala, Karjat, Mahabaleshwar, Mussoorie, Coonoor, Phuket, Bali and Koh Samui. Some boast of abundant natural beauty like gurgling streams, indigenous flora or crashing waves. Others are close to cool watering holes or specialty restaurants by homegrown chefs.</string>
+    <string name="al_title_4">Lohono Stays by Isprava has been created</string>
+    <string name="al_desc_4">to craft contemporary, luxury vacations for discerning travellers. Lohono is derived from the Hawaiian word “lono” which has associations of relaxation, music and peace. To us it means discovering the pleasures of an idyllic escape. We give a deeper meaning to luxury vacations through opulent homes and meaningful experiences.</string>
+    <string name="al_title_5">We started Isprava in 2013</string>
+    <string name="al_desc_5">and in just a few years, we have been fortunate to see tremendous success and have built an illustrious Isprava family. Over the last six years, Isprava has played a defining role in shaping what the uber-luxury traveller desires on a holiday. Whether it is offering truly world-class aesthetics and curated services or appreciating local discoveries. And while a few families have had the chance to own an Isprava home in Goa, Coonoor or Alibaug, there are hundreds and thousands of others who have been unable to experience the unique Isprava service.</string>
+    <string name="list_row_desc">The information included and/or attached in this electronic mail transmission may contain confidential or privileged information and is intended for the addressee.</string>
+    <string name="pl_email">Email: sushantchiplunkar.developer@gmail.com</string>
+    <string name="pl_mobile">Mobile: 8454904542</string>
+    <string name="pl_choose_theme">Choose Theme:</string>
+    <string name="pl_default">Default</string>
+    <string name="pl_dark">Dark</string>
+    <string name="pl_light">Light</string>
+    <string name="pl_choose_language">Choose Language:</string>
+    <string name="pl_english">English</string>
+    <string name="pl_hindi">Hindi</string>
+    <string name="pl_marathi">Marathi</string>
+    <string name="hs_home">Home</string>
+    <string name="hs_about">About</string>
+    <string name="hs_profile">Profile</string>
+    <string name="hf_t1">Title 1</string>
+    <string name="hf_desc_1">The information included and/or attached in this electronic mail transmission may contain confidential or privileged information and is intended for the addressee.</string>
+    <string name="hf_desc_2">Any unauthorized disclosure, reproduction, distribution or the taking of action in reliance on the contents of the information is prohibited.</string>
+    <string name="hf_desc_3">If you believe that you have received the message in error, please notify the sender by reply transmission and delete the message without copying or disclosing it.</string>
+    <string name="hf_t2">Title 2</string>
+    <string name="hf_t3">Title 3</string>
+</resources>
